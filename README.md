@@ -1,2 +1,2 @@
-# myRabbitMQ
-RabbitMQ 消息队列学习
+# 1. 简单消息队列 Demo
+> 2022/8/1
